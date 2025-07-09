@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/taewoong1378-notion-readonly-mcp-server-badge.png)](https://mseep.ai/app/taewoong1378-notion-readonly-mcp-server)
+
 # Notion ReadOnly MCP Server
 
 This project implements an optimized read-only MCP server for the Notion API, focusing on performance and efficiency for AI assistants to query and retrieve Notion content.
